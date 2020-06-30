@@ -6,7 +6,7 @@
 - [x] CSS
 - [x] BOOTSTRAP
 
-## Matoke Restaurant MY FIRST WEBSIT :heart_eyes: :heart_eyes: :heart_eyes: :heart_eyes:
+## Matoke Restaurant MY FIRST WEBSITE :heart_eyes: :heart_eyes: :heart_eyes: :heart_eyes:
 
 ![matokelogo](https://user-images.githubusercontent.com/66479308/86172765-307b7900-bb1f-11ea-9b05-c93bcaf33141.png)
 
