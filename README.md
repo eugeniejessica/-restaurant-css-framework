@@ -8,7 +8,7 @@
 
 ## Matoke Restaurant
 
-[My Logo](/Images/matokelogo.png)
+[/Images/matokelogo.png]
 
 I created this Logo myself threw this website: 
 https://editor.freelogodesign.org/?lang=fr&companyname=Matoke&category=19
@@ -49,4 +49,4 @@ For me the *image pagination* and *the mapping* was :rage1:
 
 It's the 30.June.2020 and I am done
 
-[ouuhhh I DID IT](https://gph.is/2cawUZf)
+[https://gph.is/2cawUZf]
